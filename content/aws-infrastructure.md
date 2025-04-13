@@ -260,3 +260,4 @@ Media queries enable responsive design by applying different styles based on the
 Congratulations on completing this CSS tutorial! You’ve learned the basics of CSS, intermediate layout techniques like Flexbox and Grid, and advanced topics like animations and responsive design. With CSS, you can create beautiful, responsive websites that look great on any device. Keep practicing and experimenting to further develop your CSS skills.
 
 Happy styling!
+---
